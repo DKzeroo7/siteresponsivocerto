@@ -1,0 +1,11 @@
+@import url(styles.css);
+:root {
+    --cor-de-fundo:#000078;
+    --cor-de-fundo:#000000;
+
+}
+body {
+    background-color: var(--cor-de-fundo);
+    margin: 0%;
+    padding: 0%;
+}
